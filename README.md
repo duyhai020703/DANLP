@@ -1,4 +1,4 @@
-tiếng Việt
+📝 NLP_DA: Fine-tuning BLOOM-560M cho tiếng Việt
 Dự án này hướng tới việc thực hiện fine-tuning mô hình BLOOM-560M (một mô hình ngôn ngữ lớn) để thích nghi với tiếng Việt, sử dụng tập dữ liệu tuỳ chỉnh.
 
 📂 Nội dung notebook
@@ -81,4 +81,3 @@ Mô hình BLOOM-560M là mô hình nhẹ (~1GB), phù hợp với GPU vừa ph�
 
 Nếu muốn huấn luyện nhanh và hiệu quả, nên sử dụng LoRA adapters.
 
-Bạn có muốn mình xuất file này thành README.md để tải về không? 
